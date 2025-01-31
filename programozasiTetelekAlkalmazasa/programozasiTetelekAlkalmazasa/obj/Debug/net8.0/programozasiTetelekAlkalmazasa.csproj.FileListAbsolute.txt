@@ -1,0 +1,14 @@
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\bin\Debug\net8.0\programozasiTetelekAlkalmazasa.exe
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\bin\Debug\net8.0\programozasiTetelekAlkalmazasa.deps.json
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\bin\Debug\net8.0\programozasiTetelekAlkalmazasa.runtimeconfig.json
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\bin\Debug\net8.0\programozasiTetelekAlkalmazasa.dll
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\bin\Debug\net8.0\programozasiTetelekAlkalmazasa.pdb
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.AssemblyInfoInputs.cache
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.AssemblyInfo.cs
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.csproj.CoreCompileInputs.cache
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.dll
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\refint\programozasiTetelekAlkalmazasa.dll
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.pdb
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\programozasiTetelekAlkalmazasa.genruntimeconfig.cache
+C:\Users\Sedlák Ákos\source\repos\programozasiTetelekAlkalmazasa\programozasiTetelekAlkalmazasa\obj\Debug\net8.0\ref\programozasiTetelekAlkalmazasa.dll
