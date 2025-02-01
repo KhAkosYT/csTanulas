@@ -1,6 +1,17 @@
 ﻿using System;
 
 public class Program{
+
+    public static bool EldontesTetel(int x){
+        if(x % 2 == 1){ 
+            return true; 
+        }
+        else { 
+            return false; 
+        }
+        
+    }
+
     public static void Main(string[] args){
         /*
         Taroljuk egy tombben egy biciklis futar kulonbozo kezbesitesei soran megtett tavolsagait!
@@ -14,6 +25,7 @@ public class Program{
             - hany forintot kap kiszallitasonkent a futar, ha km-ként 700 Ft a dijazas
          */
 
+        /*
         int[] utak = { 2, 4, 7, 3, 9 };
 
         int osszeg = 0;
@@ -30,6 +42,25 @@ public class Program{
         }
         atlag = (double) osszeg2 / db;
         Console.WriteLine(atlag);
+        */
+        //majd befejezed
+
+
+        int[] ints = new int[] { 2, 4, 6, 8, 16, 32, 64, 128, 256 };
+
+        int i = 0;
+        while((i < ints.Length) && (!EldontesTetel(ints[i]))) { 
+            i++;
+        }
+        bool volt = i < ints.Length;
+
+        if (volt) {
+            Console.WriteLine("Volt páratlan szám a tömbben");
+        }
+        else {
+            Console.WriteLine("Nincs páratlan szám a tömbben");
+        }
+
     }
 
 }
