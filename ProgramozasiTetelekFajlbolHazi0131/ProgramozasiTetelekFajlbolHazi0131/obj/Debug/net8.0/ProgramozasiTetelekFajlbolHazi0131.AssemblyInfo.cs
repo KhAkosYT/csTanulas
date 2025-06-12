@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramozasiTetelekFajlbolHazi0131")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04e2d063e0b7e14db9fbc6638e075877d417f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramozasiTetelekFajlbolHazi0131")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramozasiTetelekFajlbolHazi0131")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

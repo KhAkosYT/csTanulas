@@ -1,0 +1,15 @@
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.AssemblyInfoInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.AssemblyInfo.cs
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.csproj.CoreCompileInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.sourcelink.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\bin\Debug\net8.0\ismettetelekDeBovitve0218.exe
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\bin\Debug\net8.0\ismettetelekDeBovitve0218.deps.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\bin\Debug\net8.0\ismettetelekDeBovitve0218.runtimeconfig.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\bin\Debug\net8.0\ismettetelekDeBovitve0218.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\bin\Debug\net8.0\ismettetelekDeBovitve0218.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\refint\ismettetelekDeBovitve0218.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ismettetelekDeBovitve0218.genruntimeconfig.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\ismettetelekDeBovitve0218\ismettetelekDeBovitve0218\obj\Debug\net8.0\ref\ismettetelekDeBovitve0218.dll

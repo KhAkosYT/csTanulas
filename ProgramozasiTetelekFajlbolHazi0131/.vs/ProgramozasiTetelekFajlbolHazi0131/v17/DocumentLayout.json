@@ -1,12 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\",
+  "WorkspaceRootPath": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4888AE6-9BA7-4D97-AE5A-6D2BF9A418D8}|ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\source\\repos\\programozasitetelekfajlbolhazi0131\\programozasitetelekfajlbolhazi0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4888AE6-9BA7-4D97-AE5A-6D2BF9A418D8}|ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\desktop\\githubfolders\\cstanulas\\programozasitetelekfajlbolhazi0131\\programozasitetelekfajlbolhazi0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4888AE6-9BA7-4D97-AE5A-6D2BF9A418D8}|ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj|solutionrelative:programozasitetelekfajlbolhazi0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,24 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
-              "RelativeDocumentMoniker": "..\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
-              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
-              "RelativeToolTip": "..\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:09:22.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
               "RelativeDocumentMoniker": "ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
-              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
+              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
               "RelativeToolTip": "ProgramozasiTetelekFajlbolHazi0131\\Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAtwGMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAUwH8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T18:46:36.619Z",
               "EditorCaption": ""

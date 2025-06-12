@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sedlák Ákos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj": {}
+    "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sedlák Ákos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj": {
+    "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sedlák Ákos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj",
+        "projectUniqueName": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj",
         "projectName": "ProgramozasiTetelekFajlbolHazi0131",
-        "projectPath": "C:\\Users\\Sedlák Ákos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj",
+        "projectPath": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131.csproj",
         "packagesPath": "C:\\Users\\Sedlák Ákos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sedlák Ákos\\source\\repos\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\obj\\",
+        "outputPath": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\ProgramozasiTetelekFajlbolHazi0131\\ProgramozasiTetelekFajlbolHazi0131\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

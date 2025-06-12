@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\oopprobalkozas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|solutionrelative:oopprobalkozas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\desktop\\githubfolders\\cstanulas\\oopprobalkozas\\oopprobalkozas\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|solutionrelative:oopprobalkozas\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\desktop\\githubfolders\\cstanulas\\oopprobalkozas\\oopprobalkozas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F59-E3FC-42E1-B5D6-555494902968}|OOPProbalkozas\\OOPProbalkozas.csproj|solutionrelative:oopprobalkozas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\Form1.cs",
+              "RelativeDocumentMoniker": "OOPProbalkozas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\Form1.cs",
+              "RelativeToolTip": "OOPProbalkozas\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:00:50.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\BankAccount.cs",
+              "RelativeDocumentMoniker": "OOPProbalkozas\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\BankAccount.cs",
+              "RelativeToolTip": "OOPProbalkozas\\BankAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:57:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\Form1.cs",
+              "RelativeDocumentMoniker": "OOPProbalkozas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\OOPProbalkozas\\OOPProbalkozas\\Form1.cs [Design]",
+              "RelativeToolTip": "OOPProbalkozas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:45:39.955Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

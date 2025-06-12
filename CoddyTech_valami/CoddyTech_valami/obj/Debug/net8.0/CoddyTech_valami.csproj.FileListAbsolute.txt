@@ -1,0 +1,15 @@
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\bin\Debug\net8.0\CoddyTech_valami.exe
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\bin\Debug\net8.0\CoddyTech_valami.deps.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\bin\Debug\net8.0\CoddyTech_valami.runtimeconfig.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\bin\Debug\net8.0\CoddyTech_valami.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\bin\Debug\net8.0\CoddyTech_valami.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.AssemblyInfoInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.AssemblyInfo.cs
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.csproj.CoreCompileInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.sourcelink.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\refint\CoddyTech_valami.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\CoddyTech_valami.genruntimeconfig.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\CoddyTech_valami\CoddyTech_valami\obj\Debug\net8.0\ref\CoddyTech_valami.dll

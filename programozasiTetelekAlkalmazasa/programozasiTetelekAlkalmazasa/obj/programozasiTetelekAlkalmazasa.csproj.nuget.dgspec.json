@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sedlák Ákos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj": {}
+    "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sedlák Ákos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj": {
+    "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sedlák Ákos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj",
+        "projectUniqueName": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj",
         "projectName": "programozasiTetelekAlkalmazasa",
-        "projectPath": "C:\\Users\\Sedlák Ákos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj",
+        "projectPath": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj",
         "packagesPath": "C:\\Users\\Sedlák Ákos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sedlák Ákos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\obj\\",
+        "outputPath": "C:\\Users\\Sedlák Ákos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

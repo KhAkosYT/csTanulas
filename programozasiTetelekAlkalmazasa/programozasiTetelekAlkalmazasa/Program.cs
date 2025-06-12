@@ -1,18 +1,23 @@
 ﻿using System;
 
-public class Program{
+public class Program
+{
 
-    public static bool EldontesTetel(int x){
-        if(x % 2 == 1){ 
-            return true; 
+    public static bool EldontesTetel(int x)
+    {
+        if (x % 2 == 1)
+        {
+            return true;
         }
-        else { 
-            return false; 
+        else
+        {
+            return false;
         }
-        
+
     }
 
-    public static void Main(string[] args){
+    public static void Main(string[] args)
+    {
         /*
         Taroljuk egy tombben egy biciklis futar kulonbozo kezbesitesei soran megtett tavolsagait!
         Megtett tavolsagok: 2, 4, 7, 3, 9 km
@@ -49,15 +54,18 @@ public class Program{
         int[] ints = new int[] { 2, 4, 6, 8, 16, 32, 64, 128, 256 };
 
         int i = 0;
-        while((i < ints.Length) && (!EldontesTetel(ints[i]))) { 
+        while ((i < ints.Length) && (!EldontesTetel(ints[i])))
+        {
             i++;
         }
         bool volt = i < ints.Length;
 
-        if (volt) {
+        if (volt)
+        {
             Console.WriteLine("Volt páratlan szám a tömbben");
         }
-        else {
+        else
+        {
             Console.WriteLine("Nincs páratlan szám a tömbben");
         }
 

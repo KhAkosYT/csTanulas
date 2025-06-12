@@ -1,0 +1,17 @@
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\bin\Debug\net8.0-windows\OOPProbalkozas.exe
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\bin\Debug\net8.0-windows\OOPProbalkozas.deps.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\bin\Debug\net8.0-windows\OOPProbalkozas.runtimeconfig.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\bin\Debug\net8.0-windows\OOPProbalkozas.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\bin\Debug\net8.0-windows\OOPProbalkozas.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.Form1.resources
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.csproj.GenerateResource.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.AssemblyInfoInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.AssemblyInfo.cs
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.csproj.CoreCompileInputs.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.sourcelink.json
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\refint\OOPProbalkozas.dll
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.pdb
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\OOPProbalkozas.genruntimeconfig.cache
+C:\Users\Sedlák Ákos\Desktop\githubFolders\csTanulas\OOPProbalkozas\OOPProbalkozas\obj\Debug\net8.0-windows\ref\OOPProbalkozas.dll

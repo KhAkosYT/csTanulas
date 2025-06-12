@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\",
+  "WorkspaceRootPath": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29201F94-55F3-40D0-8781-FD1DA26A36BE}|programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\source\\repos\\programozasitetelekalkalmazasa\\programozasitetelekalkalmazasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29201F94-55F3-40D0-8781-FD1DA26A36BE}|programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj|c:\\users\\sedl\u00E1k \u00E1kos\\desktop\\githubfolders\\cstanulas\\programozasitetelekalkalmazasa\\programozasitetelekalkalmazasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29201F94-55F3-40D0-8781-FD1DA26A36BE}|programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa.csproj|solutionrelative:programozasitetelekalkalmazasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
               "RelativeDocumentMoniker": "programozasiTetelekAlkalmazasa\\Program.cs",
-              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\source\\repos\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
+              "ToolTip": "C:\\Users\\Sedl\u00E1k \u00C1kos\\Desktop\\githubFolders\\csTanulas\\programozasiTetelekAlkalmazasa\\programozasiTetelekAlkalmazasa\\Program.cs",
               "RelativeToolTip": "programozasiTetelekAlkalmazasa\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:22:40.503Z",
+              "WhenOpened": "2025-02-01T15:10:23.433Z",
               "EditorCaption": ""
             }
           ]

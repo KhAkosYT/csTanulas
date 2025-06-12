@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programozasiTetelekAlkalmazasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04e2d063e0b7e14db9fbc6638e075877d417f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("programozasiTetelekAlkalmazasa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programozasiTetelekAlkalmazasa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
