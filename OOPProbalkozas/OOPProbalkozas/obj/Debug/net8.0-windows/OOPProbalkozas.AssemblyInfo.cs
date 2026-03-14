@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPProbalkozas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04e2d063e0b7e14db9fbc6638e075877d417f03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a361ac2ddf50731c5890a81feda461cba34f85")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPProbalkozas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPProbalkozas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
